@@ -55,11 +55,11 @@ public class testeUnitario {
         // Método para testar a validação de CPF
         public static void testCPF() {
             // Testa um CPF inválido e imprime o resultado
-            String resultado = Main.isCPF("123.456.789-09");
+            String resultado = Main.isCPF("111.111.111-08");
             System.out.println("Teste de CPF inválido: " + resultado);
 
             // Testa um CPF válido e imprime o resultado
-            resultado = Main.isCPF("111.444.777-35");
+            resultado = Main.isCPF("071.946.745-48");
             System.out.println("Teste de CPF válido: " + resultado);
         }
 }
