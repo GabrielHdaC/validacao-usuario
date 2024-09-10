@@ -12,7 +12,9 @@ Este projeto é uma aplicação Java que realiza a validação de dados como nom
 ## Tecnologias Utilizadas
 
 - **Java**: JDK 22
+- **Versão do Java**: 22.0.1
 - **IDE**: IntelliJ IDEA Ultimate
+
 
 ## Requisitos
 
